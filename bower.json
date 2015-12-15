@@ -1,0 +1,19 @@
+{
+  "name": "CH&P",
+  "version": "0.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "gsap": "~1.18.0",
+    "imagesloaded": "~3.1.8",
+    "scrollmagic": "ScrollMagic#~2.0.5"
+  }
+}
