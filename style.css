@@ -293,3 +293,15 @@ em{
 #engagement .mayor{
 	text-align:right;
 }
+
+.modal-content{
+	background-color: #16213d;
+}
+
+.mailing-list-button {
+	width: 80%;
+}
+
+input {
+	color: #000;
+}
